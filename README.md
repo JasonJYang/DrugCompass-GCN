@@ -10,7 +10,7 @@ python train.py --config config_train.json
 ## 2. Inference on all the drug pairs
 Use the following command to inference on all the drug pairs:
 ```
-python inference.py --config config_inference.json
+python inference.py --config config_infer_all.json
 ```
 
 # Result
